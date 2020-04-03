@@ -1,5 +1,5 @@
 const randomNumber = () => {
-	return Math.round(Math.random() * 102);
+	return Math.floor(Math.random() * 102);
 };
 
 // const isNumber = function(n) {
